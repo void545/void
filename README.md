@@ -16,11 +16,11 @@
 
 <!-- Cute Anime GIF Top Section -->
 <div align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/hatsune-miku-miku.gif" width="120" alt="anime" />
+  <img src="https://media.tenor.com/dSyFhNdd0REAAAAj/kaguya-cosmic-princess-kaguya.gif" width="120" alt="kaguya" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/FDMCo_GCyzkAAAAi/ani-anime.gif" width="120" alt="anime" />
+  <img src="https://media.tenor.com/dSyFhNdd0REAAAAj/kaguya-cosmic-princess-kaguya.gif" width="120" alt="kaguya" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/hatsune-miku-miku.gif" width="120" alt="anime" style="transform: scaleX(-1)"/>
+  <img src="https://media.tenor.com/dSyFhNdd0REAAAAj/kaguya-cosmic-princess-kaguya.gif" width="120" alt="kaguya" />
 </div>
 
 <br/>
