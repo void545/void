@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6e00ff,100:ff00c8&height=200&section=header&text=void&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Vinicius%20%7C%20Developer%20%26%20Dreamer&descColor=cccccc&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6e00ff,100:ff00c8&height=200&section=header&text=void&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Aqui+para+fazer+seu+projeto+evoluir+%E2%9C%A8&descColor=cccccc&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+mundo!+%F0%9F%8C%B8;Full+Stack+Developer+%F0%9F%9A%80;Apaixonado+por+c%C3%B3digo+e+anime+%E2%9C%A8;Transformando+caf%C3%A9+em+software+%E2%98%95;void+%3D+%7B+id%3A+%22Vinicius%22+%7D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Seu+projeto+merece+ser+melhor+%F0%9F%9A%80;Mando+PR%2C+n%C3%A3o+cobro+nada+%F0%9F%A4%9D;Code+review%3F+T%C3%B4+aqui.+%E2%9C%85;Aquela+issue+travada+h%C3%A1+semanas%3F+Me+chama.+%F0%9F%94%A7;Open+source+%C3%A9+construir+junto+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Cute Anime GIF Top Section -->
+<!-- Kaguya GIFs -->
 <div align="center">
   <img src="https://media.tenor.com/dSyFhNdd0REAAAAj/kaguya-cosmic-princess-kaguya.gif" width="120" alt="kaguya" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,27 +27,45 @@
 
 ---
 
-## 🌌 Sobre mim
+## 🤝 Quem sou eu?
 
 ```typescript
 const void = {
-  nome:        "Vinicius",
-  alias:       "void",
-  localização: "Brasil 🇧🇷",
-  ocupação:    "Full Stack Developer",
-  paixões:     ["código", "anime", "café", "open source"],
-  atualmente:  "Construindo coisas incríveis ✨",
-  fun_fact:    "Debuggo em produção e não tenho vergonha 😅",
+  nome:       "Vinicius",
+  alias:      "void",
+  país:       "Brasil 🇧🇷",
+  missão:     "Fazer o seu projeto ser melhor do que era ontem",
+  acredita:   "Nenhum projeto é grande demais pra melhorar",
+  oferece:    ["code review", "contribuições", "pair programming", "feedbacks honestos"],
+  PR_policy:  "Abro PR, explico o porquê, e respeito a sua visão",
+  motto:      "Seu sucesso no projeto é o meu objetivo 🎯",
 };
 ```
 
+<br/>
+
+> *"Não existe código perfeito — existe código que pode ser melhorado. E eu adoro essa parte."*
+
+---
+
+## 🌱 O que eu faço por aqui
+
 <div align="center">
-  <img src="https://media.tenor.com/BCLMHJ30TF0AAAAi/anime-cute.gif" width="200" alt="cute anime" />
+
+| 💡 | O que ofereço |
+|:--:|:--|
+| 🔍 | **Code Review** — Olho seu código com carinho e aponto melhorias sem julgamento |
+| 🐛 | **Bug Hunting** — Adoro encontrar aquele bug chato que ninguém consegue achar |
+| ⚡ | **Otimização** — Performance, legibilidade, estrutura — tudo pode melhorar |
+| 🧪 | **Testes** — Ajudo a cobrir aquele código que ainda não tem testes |
+| 📖 | **Documentação** — README, comentários, wikis — comunicação também é código |
+| 🤝 | **Pair Programming** — Junto a gente resolve mais rápido |
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Com o que posso te ajudar
 
 ### 💻 Linguagens
 <div align="center">
@@ -73,7 +91,7 @@ const void = {
 
 </div>
 
-### 🗄️ Banco de Dados & Cloud
+### 🗄️ Banco de Dados & Infra
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -85,26 +103,9 @@ const void = {
 
 </div>
 
-### 🧰 Ferramentas
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-
-</div>
-
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://media.tenor.com/RtMkBfBBjUkAAAAi/anime-girl-cute.gif" width="100" alt="cute anime stats" />
-</div>
-
-<br/>
+## 📊 Minhas contribuições
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=void&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff00c8&text_color=ffffff" />
@@ -125,7 +126,7 @@ const void = {
 
 ---
 
-## 🏆 Troféus GitHub
+## 🏆 Troféus
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=void&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
@@ -133,38 +134,22 @@ const void = {
 
 ---
 
-## 🎌 Meus Animes Favoritos
+## 💬 Quer colaboração? Me chama!
 
 <div align="center">
 
-| 🌸 Anime | ⭐ Rating |
-|----------|----------|
-| Attack on Titan | ★★★★★ |
-| Demon Slayer | ★★★★★ |
-| Jujutsu Kaisen | ★★★★★ |
-| Re:Zero | ★★★★☆ |
-| Steins;Gate | ★★★★★ |
-| One Piece | ★★★★★ |
+> Tem um projeto travado? Uma feature que não sai do papel?
+> Um bug que você não consegue encontrar? **Abre uma issue ou me manda mensagem.**
+> Estou aqui pra isso. Sem ego, sem julgamento — só foco em fazer seu projeto avançar. 🚀
 
 </div>
-
-<div align="center">
-  <img src="https://media.tenor.com/tE9ijPFOFikAAAAi/cute-anime.gif" width="150" alt="anime fav" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/r1CEIAGmMhkAAAAi/anime-wink.gif" width="150" alt="anime wink" />
-</div>
-
----
-
-## 🌐 Onde me encontrar
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/void)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/void)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/void)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://void.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:void@email.com)
+[![Email](https://img.shields.io/badge/Me+manda+um+email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:void@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/void)
 
 </div>
 
@@ -186,11 +171,11 @@ const void = {
 
 <br/>
 
-<!-- Cute anime footer -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://media.tenor.com/2BHJJMNFosQAAAAi/anime-wave.gif" width="120" alt="bye anime" />
-  <br/>
-  <em>「 Obrigado por visitar! ありがとう ✨ 」</em>
+  <img src="https://media.tenor.com/dSyFhNdd0REAAAAj/kaguya-cosmic-princess-kaguya.gif" width="100" alt="kaguya bye" />
+  <br/><br/>
+  <em>「 Seu projeto pode ser melhor — e eu quero te ajudar a chegar lá. ✨ 」</em>
 </div>
 
 <br/>
